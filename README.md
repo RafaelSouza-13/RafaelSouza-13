@@ -5,6 +5,9 @@
 
 📫 contate-me no email: rafa.nds13@gmail.com
 
+<a href="https://github.com/RafaelSouza-13">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelSouza-13&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
