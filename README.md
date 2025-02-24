@@ -1,7 +1,7 @@
 ## Olá, sou Rafael 👋
 🔭 Hoje sou estagário em desenvolvimento web
 
-🌱 Estudando: Java e spring boot
+🌱 Estudando: Ciência de dados
 
 📫 contate-me no email: rafa.nds13@gmail.com
 
