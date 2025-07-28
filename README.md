@@ -9,6 +9,10 @@ Atualmente, atuo como estagiário em desenvolvimento web, onde tenho contribuíd
 
 ☕ Conhecimento em Java + Spring
 
+🔧 Versionamento de código com Git
+
+🗄️ Banco de dados relacionais(SQL, modelagem de dados)
+
 🎨 Noções de frontend com Tailwind CSS e HTML/CSS
 
 🧠 Interesse em boas práticas de modelagem de dados e organização de projetos
