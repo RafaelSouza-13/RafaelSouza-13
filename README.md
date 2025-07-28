@@ -1,7 +1,17 @@
 ## Olá, sou Rafael 👋
-🔭 Hoje sou estagário em desenvolvimento web
+🔭 Hoje sou estagário em desenvolvimento web e back-end em início de carreira, com foco em backend PHP, especialmente utilizando o framework Laravel, que é a tecnologia que mais domino e utilizo no dia a dia.
 
-🌱 Estudando: Ciência de dados
+Atualmente, atuo como estagiário em desenvolvimento web, onde tenho contribuído com soluções reais para aplicações legadas em PHP5 porém em alguns sistemas mais novos já utilizamos a framework Laravel, porém já utilizei e tive bastante contato com Java e a framework Spring. Estou constantemente evoluindo e aprendendo, principalmente em áreas como:
+
+🐘 Desenvolvimento backend com PHP + Laravel
+
+🐳 Uso de Docker para ambientes isolados
+
+☕ Conhecimento em Java + Spring
+
+🎨 Noções de frontend com Tailwind CSS e HTML/CSS
+
+🧠 Interesse em boas práticas de modelagem de dados e organização de projetos
 
 📫 contate-me no email: rafa.nds13@gmail.com
 
