@@ -1,19 +1,20 @@
 ## Olá, sou Rafael 👋
-🔭 Hoje sou estagário em desenvolvimento web e back-end em início de carreira, com foco em backend PHP, especialmente utilizando o framework Laravel, que é a tecnologia que mais domino e utilizo no dia a dia.
+🎓 Sistemas de Informação | Desenvolvedor de Software | Dados & Machine Learning
 
-Atualmente, atuo como estagiário em desenvolvimento web, onde tenho contribuído com soluções reais para aplicações legadas em PHP5 porém em alguns sistemas mais novos já utilizamos a framework Laravel, porém já utilizei e tive bastante contato com Java e a framework Spring. Estou constantemente evoluindo e aprendendo, principalmente em áreas como:
+Sou formado em Sistemas de Informação e tenho experiência com desenvolvimento de sistemas, processamento de dados e bancos de dados relacionais. Ao longo da minha trajetória, trabalhei principalmente com Python, PHP, SQL e desenvolvimento backend, participando de projetos que envolveram desde modelagem de dados até implementação e manutenção de sistemas.
+
+Atualmente, tenho direcionado minha carreira para a área de Dados e Machine Learning, buscando aplicar minha experiência em programação e bancos de dados na construção de soluções orientadas a dados.
+Possuo experiência com as ferramentas:
 
 🐘 Desenvolvimento backend com PHP + Laravel
 
 🐳 Uso de Docker para ambientes isolados
 
-☕ Conhecimento em Java + Spring
+☕ Desenvolvimento de aplicações utilizando Python, Flask, Pandas, NumPy, Scikit-learn e Matplotlib.
 
 🔧 Versionamento de código com Git
 
 🗄️ Banco de dados relacionais(SQL, modelagem de dados)
-
-🎨 Noções de frontend com Tailwind CSS e HTML/CSS
 
 🧠 Interesse em boas práticas de modelagem de dados e organização de projetos
 
