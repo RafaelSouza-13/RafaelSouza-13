@@ -3,7 +3,7 @@
 
 Sou formado em Sistemas de Informação e tenho experiência com desenvolvimento de sistemas, processamento de dados e bancos de dados relacionais. Ao longo da minha trajetória, trabalhei principalmente com Python, PHP, SQL e desenvolvimento backend, participando de projetos que envolveram desde modelagem de dados até implementação e manutenção de sistemas.
 
-Atualmente, tenho direcionado minha carreira para a área de Dados e Machine Learning, buscando aplicar minha experiência em programação e bancos de dados na construção de soluções orientadas a dados.
+Busco aplicar minha experiência em programação e bancos de dados na construção de soluções orientadas a dados.
 Possuo experiência com as ferramentas:
 
 🐘 Desenvolvimento backend com PHP + Laravel
